@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Guilherme Henrique
+
+- :blue_book: I am currently majoring in Systems Development
+- :computer: Passionate about technology and challenges. I love to program and get knowledge of this area
+- :sparkles: I like to learn, create new things and get different experiences
+
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=http://https://www.linkedin.com/in/guilherme-souza-4068081a7/)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox)

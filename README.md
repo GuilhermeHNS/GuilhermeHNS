@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - :computer: Passionate about technology and challenges. I love to program and get knowledge of this area
 - :sparkles: I like to learn, create new things and get different experiences
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://https://www.linkedin.com/in/guilherme-souza-4068081a7/)](http://https://www.linkedin.com/in/guilherme-souza-4068081a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-4068081a7/)](http://https://www.linkedin.com/in/guilherme-souza-4068081a7/)

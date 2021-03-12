@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-4068081a7/)](https://www.linkedin.com/in/guilherme-souza-4068081a7/)
 
 - :blue_book: I'm currently majoring in Systems Development.
-- :computer: In love with about technology and challenges. I love to program and get knowledge of this area.
+- :computer: In love with technology and challenges. I love to program and get knowledge of this area.
 - :sparkles: I like to learn, create new things and get different experiences.
 
 
@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

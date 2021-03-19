@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 # :star:Guilherme Henrique
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-4068081a7/)](https://www.linkedin.com/in/guilherme-souza-4068081a7/)
 
-:blue_book: I'm currently majoring in Systems Development.
+:blue_book: Atualmente estou me formando em Desenvolvimento de Sistemas.
 
-:computer: In love with technology and challenges. I love to program and get knowledge of this area.
+:computer: Apaixonado por tecnologia e desafios. Amo programar e adquirir conhecimentos nesta área.
 
-:sparkles: I like to learn, create new things and get different experiences.
+:sparkles: Gosto de aprender, criar coisas novas e ter experiências diferentes.
 
 
 # :rocket: Skills

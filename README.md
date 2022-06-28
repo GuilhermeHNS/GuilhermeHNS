@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # :star:Guilherme Henrique
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-souza-4068081a7/)](https://www.linkedin.com/in/guilherme-souza-4068081a7/)
 
-:blue_book: Atualmente estou me formando em Desenvolvimento de Sistemas.
+:blue_book: Formado em Desenvolvimento de Sistemas.
 
 :computer: Apaixonado por tecnologia e desafios. Amo programar e adquirir conhecimentos nesta área.
 
